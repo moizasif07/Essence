@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Essence Organic Hairoil",
+  title: "Essence Organic Hair Oil",
   description: " 100% organic, chemical-free. Nourish & revitalize naturally. Say goodbye to hair fall,dryness dandruff. Trusted for strong, shiny hair. ",
   icons: {
     icon: '/logo.ico', 
