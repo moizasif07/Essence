@@ -14,7 +14,7 @@ export default function Home() {
       </h1>
 
       {/* Tagline */}
-      <p className="text-gray-300 mt-4 max-w-lg text-xl leading-relaxed">
+      <p className="text-yellow-400 mt-4 max-w-lg text-xl leading-relaxed">
         Natural Hair Oil for Healthy Growth & Shine
       </p>
 
